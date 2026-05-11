@@ -14,7 +14,7 @@
 
 ### 1. Клонировать репозиторий
 
-git clone https://github.com/ТВОЙ_НИКНЕЙМ/gorest-app.git
+git clone https://github.com/ВАШ_НИКНЕЙМ/gorest-app.git
 cd gorest-app
 
 ### 2. Установить зависимости
@@ -36,5 +36,5 @@ npm run dev
 
 ## Деплой
 
-Приложение задеплоено на Vercel:
+Приложение задеплоено на Neylify:
 https://euphonious-dragon-572075.netlify.app/
